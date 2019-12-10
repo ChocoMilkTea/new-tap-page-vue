@@ -1,7 +1,5 @@
 <template>
-  <div>
-    <p>Hello world!</p>
-  </div>
+  <v-btn>Hi</v-btn>
 </template>
 
 <script>
