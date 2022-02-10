@@ -35,7 +35,7 @@
     "fibers": "^4.0.2",
     "file-loader": "^1.1.11",
     "mini-css-extract-plugin": "^0.4.4",
-    "node-sass": "^4.9.3",
+    "node-sass": "^7.0.0",
     "sass": "^1.23.7",
     "sass-loader": "^8.0.0",
     "vue-cli-plugin-vuetify": "^2.0.2",
